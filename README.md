@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chancortel
 - 👀 I’m interested in ... Network Automation
-- 🌱 I’m currently learning ... apache2, html and python
+- 🌱 I’m currently learning ... stackstorm, apache2, html and python
 - 💞️ I’m looking to collaborate on ...making a webpage for network automation script
 - 📫 How to reach me ... chancortel@gmail.com
 
